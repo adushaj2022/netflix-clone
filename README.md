@@ -4,4 +4,4 @@ Front end project created with React js in an attempt to clone the Netflix landi
 ![image](https://user-images.githubusercontent.com/47046091/124774112-8ab9d180-df0b-11eb-885a-5a7a96d66550.png)
 
 ## Note
-This was one of my first projects created with react native
+This was one of my first projects created with react
